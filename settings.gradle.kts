@@ -1,2 +1,2 @@
-rootProject.name = "Java_SE_Fundamentals"
+rootProject.name = "Nequi_Exercises"
 
